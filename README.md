@@ -1,3 +1,5 @@
+NOTE:I Know that everything is gone, i deleted it. I am trying something that requires them to be gone. sorry for the inconvinence. They may be back soon.
+
 - 👋 Hi, I’m @GameGuyLol
 - 👀 I’m interested in Blooket
 - 🌱 I’m currently learning more Javascript
